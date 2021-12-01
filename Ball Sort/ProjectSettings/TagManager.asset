@@ -48,3 +48,6 @@ TagManager:
   - name: player
     uniqueID: 3372679527
     locked: 0
+  - name: Gun
+    uniqueID: 3593312979
+    locked: 0
